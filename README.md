@@ -3,58 +3,63 @@
     src="https://github.com/vitaless7/image/blob/main/vital.png?raw=true" 
     alt="Felipe Vital - Banner" 
     width="100%"
-    style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); margin-bottom: 20px;"
+    style="border-radius: 12px;"
   >
 </div>
 
-<table style="width:100%; border-collapse: collapse;">
-  <tr>
-    <td width="60%" valign="top" style="padding-right: 20px;">
-      
-## 🚀 About Me
+## 👋 About Me
 
-Hello! 👋 I'm a Data Engineer specializing in building and optimizing scalable data solutions.
+Hello! I'm **Felipe Vital**, a Data Analyst focused on **Analytics, SQL and Looker/LookML**.
 
-* 🔭 My core focus is on **Big Data**, **Data Engineering**, and **Cloud Computing**.  
-* 📈 I design **robust data pipelines** that power Analytics and Machine Learning applications.  
-* 🤖 I am a strong advocate for **automation**, **reproducibility**, and fostering a **data-driven** culture.  
-* 📍 Currently based in **Curitiba, Brazil**.
+* 📊 I work extensively with **Looker and LookML**, building and maintaining analytics solutions and data models.
+* 🧠 Strong background in **SQL, data analysis and Python**.
+* ⚙️ Currently expanding my skills into **Data Engineering**, focusing on data pipelines, orchestration and transformation.
+* 🚀 Building practical projects with **Airflow, dbt, Docker and PostgreSQL**.
+* 📚 Always learning and exploring new technologies across the data ecosystem.
+* 📍 Based in **Curitiba, Brazil**.
 
-    </td>
-    <td width="40%" valign="top">
-      
+---
 
 ## ⚙️ Tech Stack
 
-My primary toolkit includes:
-
 <table>
   <tr>
-    <td align="center" width="160"><strong>💾 Core / Data</strong></td>
+    <td align="center" width="180"><strong>📊 Analytics & Data</strong></td>
     <td>
       <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+      <img src="https://img.shields.io/badge/Looker-0D1117?style=for-the-badge&logo=looker&logoColor=white" alt="Looker"/>
+      <img src="https://img.shields.io/badge/LookML-0D1117?style=for-the-badge&logo=looker&logoColor=white" alt="LookML"/>
       <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/dbt-0D1117?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
+      <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     </td>
   </tr>
+
   <tr>
-    <td align="center" width="160"><strong>🔧 Tools & Frameworks</strong></td>
+    <td align="center"><strong>🔧 Data Engineering</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
+      <img src="https://img.shields.io/badge/dbt-0D1117?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
+      <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
       <img src="https://img.shields.io/badge/Spark-0D1117?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
-      <img src="https://img.shields.io/badge/Databricks-0D1117?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
     </td>
   </tr>
+
   <tr>
-    <td align="center" width="160"><strong>☁️ Cloud & DevOps</strong></td>
+    <td align="center"><strong>☁️ Cloud & Tools</strong></td>
     <td>
       <img src="https://img.shields.io/badge/GCP-0D1117?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-      <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
       <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
       <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
     </td>
   </tr>
 </table>
+
+---
+
+## 📚 Currently Learning
+
+**Data Engineering · Data Pipelines · Orchestration · Data Transformation · Cloud Data Platforms**
 
 ---
 
